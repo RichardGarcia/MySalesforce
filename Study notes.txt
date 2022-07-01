@@ -1,1 +1,23 @@
 Study notes
+
+Mission 0: Start with the Basics
+
+1. Discover best practices for users new to Salesforce.
+Explain what Salesforce is and why you should use it.
+Describe how Salesforce objects are related and when to use each one.
+Introduction
+
+Main sales force standard objects:
+
+1. Accounts:
+a. Company name, solo Name
+
+2. contact details:
+a. Tel no.
+b. email address
+c. address
+
+3. Leads:
+a. Potential Prospects - not yet decided to buy or use the product, service(s)
+b. Opportunities (qualified leDS) - Decided to buy or use the service(s) then convert to an opportunity
+
