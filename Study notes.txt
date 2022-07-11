@@ -34,3 +34,108 @@ a. Next Trail: Accounts & Contacts for Lightning Experience
 • REQUIRED Getting Started with Trailhead https://trailhead.salesforce.com/en/content/learn/trails/learn_salesforce_with_trailhead?trailmix_creator_id=strailhead&trailmix_slug=getting-started-with-salsforce (1 hour)
 
 5. After you have completed all modules, take a screenshot of any one page that shows your number of badges and points. (e.g. the statistics are at the top right hand corner when you are in Trailhead, or at your Trailblazer.me page).
+
+
+
+****************
+
+HOMEPAGE
+
+Performance Chart: Monitor and update your performance to goal.
+Assistant: Stay on track by seeing the leads and opportunities that require your attention.
+News: Get insights at a glance on your important accounts.
+Upcoming events: See the next five meetings on your calendar today.
+Today’s tasks: See up to five tasks due today.
+Recent records: Access links to recently viewed records.
+Top deals: View your top open opportunities in a convenient list.
+
+
+Taking into account that we were given a short time to finish the first task, Mission 0, you were able to learn and apply the basic knowledge and principles of Salesforce platform already,
+
+Your attention to details are impressive, and with your Salesforce Ecosystem basic foundation on how to handle volumes of Objects and Records, cloud site knowledge, SF  features, I believe that this will be one of your competitive advantage in being a Salesforce administrator / Developer, in building cost-effective SF application of multinational companies in the future.  
+
+(And I.... Thank you!) Clap, clap, clap🤣🤣🤣
+
+
+
+Mission 01
+
+https://www.turners.co.nz/Cars/finance-insurance/car-insurance/insurance-policies/
+
+
+Dev :
+
+Possiblity of update data not??
+
+
+FAQ with Flow Chart ghaphics
+
+User:
+Accurate?? -- level to human interaction
+
+
+Business:
+
+Convinience??
+24/7
+
+
+
+
+
+
+
+
+Task 1:
+
+1. Write an email your thoughs on the ethical implications replaing after sales staff with chat bots
+
+
+
+
+1. Lack of emphaty?
+2. Accurate details?
+3. Learning process?
+4. What if the data send by the chatbot are wrong?
+5. wrong decisions?
+
+hack by other people?
+
+1. upgrade to new tech,
+2. 24,7 accesss,
+
+improve sales,
+3.  3 principles, -- justice, autonomy, implications
+
+
+autonomy -- people (chatbot, client and user ) own choice
+
+
+Impact - avoidind harm, degrading users
+
+Frolian:
+
+
+scripted answers,
+
+
+Hack by competitors,
+
+privacy,
+
+stored in salesforce
+language preference - ex: english, chinise
+
+
+
+
+
+
+
+
+
+
+
+
+
+
