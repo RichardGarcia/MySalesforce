@@ -126,16 +126,160 @@ privacy,
 stored in salesforce
 language preference - ex: english, chinise
 
+Specific task:
+
+1. 
+Conversation details:
+
+Date & time,
+ChatID,
+Client Name,
+topic/title
+
+status:  New, In progress, closed, Escalated
+
+Product inquiry:
+
+a. car details:  brand? model? year? color?
+
+b. Insurance (1. Full cover or 2. third party)
+picklist dependenies
+
+c. Breakdown insurance (1. electrical cover 2. engine cover, 3. full cover)
+picklist dependenies
+d. car use? - commercial or personal
+
+e. more claim inquiry details
+incident time
+incident description
+
+
+Specific task:  
+
+1.  Conversation details: 
+ Date & time,
+ ChatID,
+ Client Name, 
+topic/title  
+status:  New, In progress, closed, Escalated 
+ Product inquiry:  a. car details:  brand? 
+model? 
+year? 
+color? 
+ b. Insurance (1. Full cover or 2. third party) — picklist dependenies  
+c. Breakdown insurance (1. electrical cover 2. engine cover, 3. full cover) — picklist dependenies 
+d. car use for? - commercial or personal 
+ e. more claim inquiry details incident time, incident description
 
 
 
 
 
 
+Does the email discuss the implications of the proposed ‘chatbot’ project in relation to at least one (1) of: the principles of fair treatment, equitable outcomes, freedom of choice, manipulative forces, and beneficent impact.
+Does the learner suggest at least one (1) potentially viable recommendation for action to be taken in response to any ethical issues identified?
+
+
+
+explains: "Our after-sales support team responds to customers who have problems with their
+motor vehicles after they have bought them. At the moment, the after-sales team consists of seven
+members, and it is costing the business a lot of resource. I believe there are potential benefits to be
+gained from using chatbots to take over some of the work that our after-sales support staff are
+currently doing, and am interested in exploring this idea further. I do however have three main
+concerns that I need to see satisfied:
+
+
+
+*****
+
+
+
+****
+
+Does the email discuss the implications of the proposed ‘chatbot’ project in relation to at least one (1) of: the principles of fair treatment, equitable outcomes, freedom of choice, manipulative forces, and beneficent impact.
+
+
+*****
+Dear Stakeholders,
+
+I am writing to you to share my thoughts on one ethical implication of replacing after-sales staff with chatbots and my one recommendation on how should this matter be managed.
+
+[Dainy]
+Ethical Implication
+
+Recommendation
+
+[Richard]
+Ethical Implication, beneficent impact:  Chatbot  are there 24/7 Online
+
+Recommendation: of having chatbot:
+1. Instead of reading a  long PDF doccument, The users can have a chat about 1. client needed service(s) 2. the product or services Turners are giving.  
+
+2. They could also have an option to talk to a real peson (if needed or if the users wish to -- an alert message will be send to a real person?, so that he can be online?)
+3. After the a chat,a report will be automatically sent to Sales Team records (inside  Salesforce database ) for futue reference for follow up to the client.??
+
+
+
+
+[Florian]
+Ethical Implication
+
+Recommendation
+
+We appreciate you taking the time to read this email and we also look forward to work with you. If you need to contact us, please feel free to call on 021 617769.
+
+Sincerely,
+DFR Team
+
+*****
 
 
 
 
 
+
+*** Email draft  start ***
+Dear Stakeholders,
+
+I am writing to you to share my thoughts on one ethical implication of replacing after-sales staff with chatbots and my one recommendation on how should this matter be managed.
+
+[Dainy]
+There is a growing concern about bias and lack of representation when designing and deploying Artificial Intelligence (AI), such as a chatbot. This produces inequitable outcomes for all. This is an opportunity for your company to close the gap areas in relation to this ethical issue once you have fully decided to integrate a chatbot within your after-sales support team.
+
+I strongly recommend to use a genderless bot who greets a customer initially in English, but also encourages a customer to select a different language to use in the chat line. In addition, it will be useful to include an identifiable "icon" around the chat line for vision and hearing impaired customers who is interested in buying a car or attending a car auction.
+
+Recommendation
+
+[Richard]
+Ethical Implicatiion
+
+Recommendation
+
+[Florian]
+Artificial Intelligence must work for the good of mankind and not exploit people.
+We are aware that based on Nudge Theory, chatbots can influence user's behavior or emotions in the form of suggestions or manipulations. Our recommendation is to regularly audit the metrics by human experts. And so AI algorithms will be designed such that they can be reviewed by a third party to avoid manipulation or bias. We will also make sure
+to constrain the learning so that it only operates within a ‘safe’ domain.
+
+We appreciate you taking the time to read this email and we also look forward to work with you. If you need to contact us, please feel free to call on 021 617769.
+
+Sincerely,
+DFR Team
+
+
+*Richard *
+Recommendation
+
+[Richard]
+Ethical Implication, beneficent impact:  Chatbot  are there 24/7 Online
+
+Recommendation: of having chatbot:
+1. Instead of reading a  long PDF doccument, The users can have a chat about 1. client needed service(s) 2. the product or services Turners are giving.
+
+2. They could also have an option to talk to a real peson (if needed or if the users wish to -- an alert message will be send to a real person?, so that he can be online?)
+3. After the a chat,a report will be automatically sent to Sales Team records (inside  Salesforce database ) for futue reference for follow up to the client.??
+
+
+
+*** email draft end ***
 
 
