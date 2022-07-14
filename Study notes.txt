@@ -283,3 +283,89 @@ Recommendation: of having chatbot:
 *** email draft end ***
 
 
+
+
+SF programming  Mission 1 digital solution  draft
+
+Car Turners -- Client
+
+Project: Vehicle insurance system
+
+
+** manager is interested in the potential of chatbots as a contributor to both operating efficiencies and
+customer satisfaction.
+
+
+
+1 Chatbot object model
+
+2. Chatbot Conversation
+
+3. custom objects and their fields, and custom fields on
+standard objects, need to be created
+
+The status of the conversation: New, In Progress, Closed, Escalated
+ Each Chat Line should only show fields relevant to the type of Intent of the Chat Line
+ The following three types of Intent of the Chat Line, and their data must be captured:
+o Product Enquiry. The data to capture include:
+ Product Enquired. There are 2 types of product enquiries:
+ Motor Vehicle Insurance (2 products: full cover, third party)
+ Mechanical Breakdown Insurance (3 products: electrical
+cover, engine cover, full cover)
+ Car Model
+ Commercial or Personal use
+o Company Enquiry. We need to capture the Information Type enquired
+(opening hours, location, history)
+o Claim Enquiry. The data to capture include:
+ Incident DateTime
+ Incident Description
+
+Each team member will create the custom objects, their fields, and custom fields on
+standard objects in the Org the member created to implement the requirements in the
+above task. Take screenshots of what you created (either in Object Manager or the object
+pages), and save them into a Word Document or Powerpoint file. As a team, you can discuss
+what objects and fields to create and how to create them. Each individual will submit
+his/her own screenshots with the objects and fields implemented.
+
+
+
+
+Dear Turners,
+
+ 
+
+Based on our recent group discussion, we are writing you to share our thoughts on the ethical implications of replacing your after-sales staff with CHATBOTS and our recommendations on how should this matter be managed, moving forward.
+
+ 
+
+First of all, there is a growing concern about bias and lack of representation when designing and deploying Artificial Intelligence (AI), such as a chatbot. This produces inequitable outcomes for all.
+
+Second, we are also aware that based on Nudge Theory, chatbots can influence user's behavior or emotions in the form of suggestions or manipulations. Third, Chatbots are expected  to be visible 24/7. Thus,  issues about user-friendly interfaces, company’s integrity and liability may indeed be a concern.
+
+ 
+
+Now based on the points presented, this is a great opportunity for the company to close the gap areas once you have fully decided to integrate a chatbot within your after-sales support team.
+
+ 
+
+We strongly recommend to use a genderless bot who greets a customer initially in English, but also encourages a customer to select a different language to use in the chat line. In addition, it will be useful to include an identifiable "icon" around the chat line for vision and hearing impaired customers who is interested in buying a car or attending a car auction.
+
+ 
+
+A user-friendly interface is most beneficial. Instead of reading a long PDF document,  clients must have an option to us simplified FAQs for their immediate needs. The products and services of Turners must be clearly visible to avoid confusion and to help clients have a better understanding of them. And if possible, there should also be an option to talk to a real live SALES agent. The available manpower can be alerted so that he/she can resolve the issue ASAP, if needed. Most importantly, a Chat Report should also be submitted to both parties so that everything will be organized and documented inside a Salesforce database for future reference, follow-up and management of the case.
+
+ 
+
+Lastly, Artificial Intelligence must work for the good of mankind and not exploit people. Our recommendation is to regularly audit the metrics by human experts. And so AI algorithms will be designed such that they can be reviewed by a third party to avoid manipulation or bias. We will also make sure to constrain the learning so that it only operates within a ‘safe’ domain.
+
+ 
+
+We appreciate you taking the time to read this email and we also look forward to work with you. If you need to contact us, please feel free to call on 021 617769.
+
+ 
+
+Sincerely, DFR Team
+
+ 
+
+Sent from Mail for Windows
