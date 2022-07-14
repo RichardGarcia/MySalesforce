@@ -350,11 +350,6 @@ Now based on the points presented, this is a great opportunity for the company t
 
 We strongly recommend to use a genderless bot who greets a customer initially in English, but also encourages a customer to select a different language to use in the chat line. In addition, it will be useful to include an identifiable "icon" around the chat line for vision and hearing impaired customers who is interested in buying a car or attending a car auction.
 
- 
-
-
-
- 
 
 Lastly, Artificial Intelligence must work for the good of mankind and not exploit people. Our recommendation is to regularly audit the metrics by human experts. And so AI algorithms will be designed such that they can be reviewed by a third party to avoid manipulation or bias. We will also make sure to constrain the learning so that it only operates within a ‘safe’ domain.
  
@@ -454,4 +449,44 @@ The following
 
 Miro link
 https://miro.com/welcomeonboard/TVZ6UWVHdFpOSEdtaVhhdXI2V1lWUTRwNXlQODFld1Q1YnVIMmFPTW1ZUkdqMmhTeTk0bnZIZklxUUdseG1LMHwzNDU4NzY0NTI4ODUxMzIwOTQ0?share_link_id=780618731634
+
+
+
+
+Colaboration:
+
+We used MSTeam group Calling and Chat  for our braintorming and  for a quick checkup for an 
+update and other ideas.
+
+We also used Online Miro application -  sticky notes for sharing inputs and ideas
+
+Sharing Miro link for reference and learning : 
+TVZ6UWVHdFpOSEdtaVhhdXI2V1lWUTRwNXlQODFld1Q1YnVIMmFPTW1ZUkdqMmhTeTk0bnZIZklxUUdseG1LMHwzNDU4NzY0NTI4ODUxMzIwOTQ0
+
+
+Generic (email to a client): 
+
+
+
+Instead of reading or looking  to a long pdf doccuments or FAQ webpage,
+
+Clients can ask question for their immediate concerns or needed Information through a user freindly, easy access 24/7 Chatbot
+
+*** other chatbot feature(s) are
+1. A button that can ping  real live Sales agent thatcan help to resolve the issue.
+2. Chat reports are also saved to SF DBase and submitted to both parties (client and sales team) for feature reference in solving the issue or concerns
+
+
+
+Specific:
+
+I used MS Excel the see the immediate orverview  and possible relationships of my SalesForce obects, fields (and thier data type) 
+
+See screen shots:
+
+
+
+
+GEE Thanks! :)
+
 
