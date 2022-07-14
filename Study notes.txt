@@ -352,20 +352,106 @@ We strongly recommend to use a genderless bot who greets a customer initially in
 
  
 
-A user-friendly interface is most beneficial. Instead of reading a long PDF document,  clients must have an option to us simplified FAQs for their immediate needs. The products and services of Turners must be clearly visible to avoid confusion and to help clients have a better understanding of them. And if possible, there should also be an option to talk to a real live SALES agent. The available manpower can be alerted so that he/she can resolve the issue ASAP, if needed. Most importantly, a Chat Report should also be submitted to both parties so that everything will be organized and documented inside a Salesforce database for future reference, follow-up and management of the case.
+
 
  
 
 Lastly, Artificial Intelligence must work for the good of mankind and not exploit people. Our recommendation is to regularly audit the metrics by human experts. And so AI algorithms will be designed such that they can be reviewed by a third party to avoid manipulation or bias. We will also make sure to constrain the learning so that it only operates within a ‘safe’ domain.
-
  
 
 We appreciate you taking the time to read this email and we also look forward to work with you. If you need to contact us, please feel free to call on 021 617769.
 
- 
 
 Sincerely, DFR Team
 
- 
-
 Sent from Mail for Windows
+
+
+
+
+*************************************
+
+Richard]
+My Ethical beneficent Implication,  Chatbots  are there 24/7 Online
+
+Recommendation: of having chatbot:
+
+1. Instead of reading a  long PDF doccuments or FAQ webpage , 
+
+The users(client) can have a chat  tregards to his 1. imeediate needs or THE PRODCUcts and services
+
+theres
+
+ --  he needs or the  services turners Company  isn Giving  
+
+
+
+2. They could also have an option to talk to a real peson (if needed or if the users wish to -- an alert message will be send to a real person?, so that he can be online?)
+3. After the a chat,a report will be automatically sent to Sales Team records (inside  Salesforce database ) for futue reference for follow up to the client.??
+
+****************
+
+
+A user-friendly  24/7 ChatBot interface is most beneficial. Instead of reading a long PDF document,  clients must have an option to us simplified FAQs for their immediate needs. The products and services of Turners must be clearly visible to avoid confusion and to help clients have a better understanding of them. And if possible, there should also be an option to talk to a real live SALES agent. The available manpower can be alerted so that he/she can resolve the issue ASAP, if needed. Most importantly, a Chat Report should also be submitted to both parties so that everything will be organized and documented inside a Salesforce database for future reference, follow-up and management of the case.
+
+
+
+***********************
+
+SF Csustom OBJECT and fields:
+
+
+1. Conversation Object
+
+2. Fields:
+
+2.a. Conversations
+2.b. Date of conversation
+2.c. Client Name
+
+2.d. Status -- NEW, IN Progress, Closed, Escalated
+2.e. Product inquiry 
+
+e. Product: Motor Vehicle insurance-- (Full cover,third party)
+f. Mechanical breakdown Insurance - products: electrical
+cover, engine cover, full cover 
+
+Car Model
+ Commercial or Personal use
+ o Company Enquiry. We need to capture the Information Type enquired
+(opening hours, location, history)
+o Claim Enquiry. The data to capture include:
+ Incident DateTime
+ Incident Description
+
+
+
+
+The objects should be able to store Conversations that consist of multiple Chat Lines.
+ For each Conversation, the following data need to be tracked:
+o Date of conversation
+o Customer (a Contact)
+o The status of the conversation: New, In Progress, Closed, Escalated
+ Each Chat Line should only show fields relevant to the type of Intent of the Chat Line
+ The following three types of Intent of the Chat Line, and their data must be captured:
+o Product Enquiry. The data to capture include:
+ Product Enquired. There are 2 types of product enquiries:
+ Motor Vehicle Insurance (2 products: full cover, third party)
+ Mechanical Breakdown Insurance (3 products: electrical
+cover, engine cover, full cover)
+ Car Model
+ Commercial or Personal use
+o Company Enquiry. We need to capture the Information Type enquired
+(opening hours, location, history)
+o Claim Enquiry. The data to capture include:
+ Incident DateTime
+ Incident Description
+The following
+
+
+
+
+
+Miro link
+https://miro.com/welcomeonboard/TVZ6UWVHdFpOSEdtaVhhdXI2V1lWUTRwNXlQODFld1Q1YnVIMmFPTW1ZUkdqMmhTeTk0bnZIZklxUUdseG1LMHwzNDU4NzY0NTI4ODUxMzIwOTQ0?share_link_id=780618731634
+
