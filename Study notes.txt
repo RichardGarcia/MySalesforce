@@ -334,24 +334,34 @@ Dear Turners,
 
  
 
-Based on our recent group discussion, we are writing you to share our thoughts on the ethical implications of replacing your after-sales staff with CHATBOTS and our recommendations on how should this matter be managed, moving forward.
+Based on our recent group discussion, we are writing you to share our thoughts on the ethical 
+implications 
+of replacing your after-sales staff with CHATBOTS and our recommendations on how should this matter be managed, moving forward.
 
  
 
-First of all, there is a growing concern about bias and lack of representation when designing and deploying Artificial Intelligence (AI), such as a chatbot. This produces inequitable outcomes for all.
+First of all, there is a growing concern about bias and lack of representation when designing and 
+deploying Artificial Intelligence (AI), such as a chatbot. This produces inequitable outcomes for all.
 
-Second, we are also aware that based on Nudge Theory, chatbots can influence user's behavior or emotions in the form of suggestions or manipulations. Third, Chatbots are expected  to be visible 24/7. Thus,  issues about user-friendly interfaces, company’s integrity and liability may indeed be a concern.
-
- 
-
-Now based on the points presented, this is a great opportunity for the company to close the gap areas once you have fully decided to integrate a chatbot within your after-sales support team.
+Second, we are also aware that based on Nudge Theory, chatbots can influence user's behavior or emotions 
+in the form of suggestions or manipulations. Third, Chatbots are expected  to be visible 24/7. Thus,  issues about user-friendly interfaces, company’s integrity and liability may indeed be a concern.
 
  
 
-We strongly recommend to use a genderless bot who greets a customer initially in English, but also encourages a customer to select a different language to use in the chat line. In addition, it will be useful to include an identifiable "icon" around the chat line for vision and hearing impaired customers who is interested in buying a car or attending a car auction.
+Now based on the points presented, this is a great opportunity for the company to close the gap areas
+ once you have fully decided to integrate a chatbot within your after-sales support team.
+
+ 
+
+We strongly recommend to use a genderless bot who greets a customer initially in English, but also 
+encourages a customer to select a different language to use in the chat line. In addition, it
+ will be useful to include an identifiable "icon" around the chat line for vision and hearing impaired customers who is interested in buying a car or attending a car auction.
 
 
-Lastly, Artificial Intelligence must work for the good of mankind and not exploit people. Our recommendation is to regularly audit the metrics by human experts. And so AI algorithms will be designed such that they can be reviewed by a third party to avoid manipulation or bias. We will also make sure to constrain the learning so that it only operates within a ‘safe’ domain.
+Lastly, Artificial Intelligence must work for the good of mankind and not exploit people.
+ Our recommendation is to regularly audit the metrics by human experts. And so AI algorithms
+  will be designed such that they can be reviewed by a third party to avoid manipulation or bias. 
+  We will also make sure to constrain the learning so that it only operates within a ‘safe’ domain.
  
 
 We appreciate you taking the time to read this email and we also look forward to work with you. If you need to contact us, please feel free to call on 021 617769.
@@ -447,11 +457,6 @@ The following
 
 
 
-Miro link
-https://miro.com/welcomeonboard/TVZ6UWVHdFpOSEdtaVhhdXI2V1lWUTRwNXlQODFld1Q1YnVIMmFPTW1ZUkdqMmhTeTk0bnZIZklxUUdseG1LMHwzNDU4NzY0NTI4ODUxMzIwOTQ0?share_link_id=780618731634
-
-
-
 
 Colaboration:
 
@@ -461,7 +466,8 @@ update and other ideas.
 We also used Online Miro application -  sticky notes for sharing inputs and ideas
 
 Sharing Miro link for reference and learning : 
-TVZ6UWVHdFpOSEdtaVhhdXI2V1lWUTRwNXlQODFld1Q1YnVIMmFPTW1ZUkdqMmhTeTk0bnZIZklxUUdseG1LMHwzNDU4NzY0NTI4ODUxMzIwOTQ0
+TVZ6UWVHdFpOSEdtaVhhdXI2V1lWUTRwNXlQODFld1Q1YnVIMmFPTW1ZUkdqMmhTeTk0bnZI
+ZklxUUdseG1LMHwzNDU4NzY0NTI4ODUxMzIwOTQ0
 
 
 Generic (email to a client): 
@@ -470,23 +476,157 @@ Generic (email to a client):
 
 Instead of reading or looking  to a long pdf doccuments or FAQ webpage,
 
-Clients can ask question for their immediate concerns or needed Information through a user freindly, easy access 24/7 Chatbot
+Clients can ask question for their immediate concerns or needed Information through a user freindly, 
+easy access 24/7 Chatbot
 
 *** other chatbot feature(s) are
 1. A button that can ping  real live Sales agent thatcan help to resolve the issue.
-2. Chat reports are also saved to SF DBase and submitted to both parties (client and sales team) for feature reference in solving the issue or concerns
+2. Chat reports are also saved to SF DBase and submitted to both parties (client and sales team) for 
+feature reference in solving the issue or concerns
 
 
 
 Specific:
 
-I used MS Excel the see the immediate orverview  and possible relationships of my SalesForce obects, fields (and thier data type) 
+I used MS Excel the see the immediate orverview  and possible relationships of my SalesForce obects, 
+fields (and thier data type) 
 
 See screen shots:
 
 
 
+Object relationships
+
+I'm still working on my Conversation page
+Inside my Chat, I need to link this object  using  Master- details -- relationships ( lookup relationship ) to other Object, like the Client Object, COnversation Object  
+
 
 GEE Thanks! :)
 
 
+Trail heads
+
+Week1 Day 1 Trailhead
+Sales Cloud basics https://trailhead.salesforce.com/content/learn/modules/sales-cloud-platform-quick-look?trailmix_creator_id=klorr&trailmix_slug=what-is-salesforce (40mins)
+Marketing Cloud Basics https://trailhead.salesforce.com/content/learn/modules/mrkt_cloud_basics?trailmix_creator_id=klorr&trailmix_slug=what-is-salesforce  (30mins)
+Service Cloud basics https://trailhead.salesforce.com/content/learn/modules/service-cloud-platform-quick-look?trailmix_creator_id=klorr&trailmix_slug=what-is-salesforce (40mins)
+ 
+
+ Week1 Day2 Trailhead
+
+https://trailhead.salesforce.com/content/learn/modules/data_modeling (45 mins)
+I also uploaded a document in the Files tab for creating custom object and field
+
+[7/6 5:29 PM] Olivia Tech-Orias
+    Here are the Trailhead links for the rest of this week upto Week 3 (For those who are working in advance on trailhead. I'll add some more later)
+
+Week1 Day 3
+Salesforce Agile Basics 
+https://trailhead.salesforce.com/en/content/learn/modules/salesforce-agile-basics (30mins)​
+Atlassian Agile Basics 
+https://trailhead.salesforce.com/en/content/learn/modules/agile-basics (30 mins)​
+Scrum and Kanban at Salesforce 
+https://trailhead.salesforce.com/en/content/learn/modules/scrum-and-kanban-at-salesforce?trail_id=learn-salesforce-agile-practices  (40 mins)
+
+
+Week1 Day4&5 Relational Database Overview​
+Build a Data Model for a Recruiting App 
+https://trailhead.salesforce.com/en/content/learn/projects/build-a-data-model-for-a-recruiting-app?trail_id=build-platform-apps-in-lightning-experience (1 hours 5 mins)​
+https://trailhead.salesforce.com/en/content/learn/modules/soql-for-admins/get-started-with-soql-queries​
+
+
+Week2
+Customer Discovery 
+https://trailhead.salesforce.com/content/learn/modules/innovation_customer_discovery (1 hour 5 mins)​
+Lightning Design System Basics 
+https://trailhead.salesforce.com/content/learn/modules/lightning-design-system-basics (40 mins)​
+
+
+Week3
+Day 1 Building Your User Interface​
+https://trailhead.salesforce.com/en/content/learn/projects/customize-the-ui-for-a-recruiting-app?trail_id=build-platform-apps-in-lightning-experience
+
+
+Day 2 
+Formula fields, Summary Fields, Validation Rules​
+https://trailhead.salesforce.com/en/content/learn/projects/improve-data-quality-for-a-recruiting-app (40 mins)
+Currencies, Calendar & Chatter Groups
+https://trailhead.salesforce.com/en/content/learn/modules/company_wide_org_settings/org_settings_currency (10 mins)
+
+
+Day3 Workflow Rules, Process Builder, Approval Process​
+https://trailhead.salesforce.com/en/content/learn/projects/quickstart-process-builder (20 mins)​
+https://trailhead.salesforce.com/en/content/learn/projects/build-a-discount-approval-process (50 mins)​
+
+
+Day4&5 Logic/Flow
+https://trailhead.salesforce.com/content/learn/projects/build-a-simple-flow (45 mins)
+
+ data security- 
+https://trailhead.salesforce.com/content/learn/modules/data_security
+
+Week 3 Day 1
+
+https://trailhead.salesforce.com/en/content/learn/projects/customize-the-ui-for-a-recruiting-app?trail_id=build-platform-apps-in-lightning-experience
+
+Week 3 Day 2
+https://trailhead.salesforce.com/en/content/learn/projects/improve-data-quality-for-a-recruiting-app (40 mins)
+
+Week3
+Day 1 Building Your User Interface
+https://trailhead.salesforce.com/en/content/learn/projects/customize-the-ui-for-a-recruiting-app?trail_id=build-platform-apps-in-lightning-experience
+
+ 
+
+Day 2
+Formula fields, Summary Fields, Validation Rules
+https://trailhead.salesforce.com/en/content/learn/projects/improve-data-quality-for-a-recruiting-app (40 mins)
+Currencies, Calendar & Chatter Groups
+https://trailhead.salesforce.com/en/content/learn/modules/company_wide_org_settings/org_settings_currency (10 mins)
+
+ 
+
+Day3 Workflow Rules, Process Builder, Approval Process
+https://trailhead.salesforce.com/en/content/learn/projects/quickstart-process-builder (20 mins)
+https://trailhead.salesforce.com/en/content/learn/projects/build-a-discount-approval-process (50 mins)
+
+ 
+
+Day4&5 Logic/Flow
+https://trailhead.salesforce.com/content/learn/projects/build-a-simple-flow (45 mins)
+
+Week4 Trailhead
+Day1 Record-Triggered Flows
+https://trailhead.salesforce.com/en/content/learn/modules/record-triggered-flows (1hr 10 mins)
+Day2 Flow Best Practices
+https://trailhead.salesforce.com/en/content/learn/modules/flow-troubleshooting  (45mins)
+Day3 Data Management
+https://trailhead.salesforce.com/content/learn/projects/import-and-export-with-data-management-tools (40 mins)
+https://trailhead.salesforce.com/content/learn/modules/data_quality (1 hr)
+Day 4 Reports and Dashboards
+https://trailhead.salesforce.com/en/content/learn/projects/create-reports-and-dashboards-for-sales-and-marketing-managers (1hr 30mins)
+Day 5 Deploying Changes
+https://trailhead.salesforce.com/content/learn/modules/declarative-change-set-development (30mins)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(5 liked)<https://teams.microsoft.com/l/message/19:f50a0f003e3945869b733144d4575fdb@thread.tacv2/1657085389017?tenantId=94957fb0-317d-4048-861c-5ac14663b7e8&amp;groupId=e2fe028f-5e53-4ba8-90d0-2776c1b9cebb&amp;parentMessageId=1657085389017&amp;teamName=2022 July - L5 Salesforce Developer&amp;channelName=Trailhead&amp;createdTime=1657085389017>
