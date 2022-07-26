@@ -630,3 +630,8 @@ https://trailhead.salesforce.com/content/learn/modules/declarative-change-set-de
 
 
 (5 liked)<https://teams.microsoft.com/l/message/19:f50a0f003e3945869b733144d4575fdb@thread.tacv2/1657085389017?tenantId=94957fb0-317d-4048-861c-5ac14663b7e8&amp;groupId=e2fe028f-5e53-4ba8-90d0-2776c1b9cebb&amp;parentMessageId=1657085389017&amp;teamName=2022 July - L5 Salesforce Developer&amp;channelName=Trailhead&amp;createdTime=1657085389017>
+
+
+FLOW!!!!
+
+from July 18 22 lecture
