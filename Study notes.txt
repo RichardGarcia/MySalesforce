@@ -634,4 +634,43 @@ https://trailhead.salesforce.com/content/learn/modules/declarative-change-set-de
 
 FLOW!!!!
 
-from July 18 22 lecture
+
+
+
+Week 6 Trailhead
+
+Day 1
+https://trailhead.salesforce.com/en/content/learn/projects/quickstart-apex (20mins) 
+
+https://trailhead.salesforce.com/en/content/learn/projects/quick-start-apex-coding-for-admins (50mins)
+
+https://trailhead.salesforce.com/content/learn/modules/apex_triggers  (1hr)
+
+ 
+Day 2
+
+
+https://trailhead.salesforce.com/en/content/learn/modules/apex_database?trail_id=force_com_dev_beginner  (2hrs 45mins)
+
+ 
+Day 3
+
+
+https://trailhead.salesforce.com/en/content/learn/modules/apex_triggers (1 hr)
+
+https://trailhead.salesforce.com/content/learn/projects/quick-start-apex-coding-for-admins  (50 mins)
+
+ 
+
+Day 4
+
+https://trailhead.salesforce.com/en/content/learn/modules/platform_events_basics  (50mins)
+
+https://trailhead.salesforce.com/en/content/learn/projects/workshop-platform-events (1 hr 5 mins)
+
+ 
+
+Day 5
+
+https://trailhead.salesforce.com/en/content/learn/modules/apex_testing  (45mins)
+ 
